@@ -4,6 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "halving":"nodemon ./codewars/halving-sum.js",
+    "multiply-array": "nodemon ./codewars/multiply-array.js", 
+    "language": "nodemon ./codewars/language-skills.js",
     "zeros": "nodemon ./codewars/zeros.js",
     "array-diff": "nodemon ./codewars/array-diff.js", 
     "convert-number": "nodemon ./codewars/convert-number.js",
