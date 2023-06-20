@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "noobcode": "nodemon ./codewars/noobCode.js",
     "halving":"nodemon ./codewars/halving-sum.js",
     "multiply-array": "nodemon ./codewars/multiply-array.js", 
     "language": "nodemon ./codewars/language-skills.js",
